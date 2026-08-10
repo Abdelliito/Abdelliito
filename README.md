@@ -1,14 +1,14 @@
 # Hi, I'm Abdullah Salman 👋
 
-### MERN Stack Developer | Computer Science Student | Building Practical Web Applications
+### Software & Web Developer | MERN Stack Developer
 
-I'm a **Computer Science student at the University of Management and Technology (UMT), Lahore**, focused on building modern, responsive, and scalable web applications.
+I'm a Computer Science student and software developer focused on building modern, scalable, and user-friendly web applications.
 
-My primary interest is **full-stack web development**, with hands-on experience in the **MERN stack**, frontend development, backend APIs, databases, and deployment. I enjoy turning ideas into practical products and continuously improving my skills by building real-world applications.
+I enjoy working across the full stack, from designing responsive interfaces to developing backend APIs and integrating databases and third-party services.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -18,6 +18,7 @@ My primary interest is **full-stack web development**, with hands-on experience 
 * React.js
 * Tailwind CSS
 * Vite
+* Next.js
 
 ### Backend
 
@@ -27,11 +28,10 @@ My primary interest is **full-stack web development**, with hands-on experience 
 * Django
 * FastAPI
 
-### Databases & Backend Services
+### Databases
 
 * MongoDB
 * MongoDB Atlas
-* Supabase
 * SQL
 
 ### Tools & Technologies
@@ -41,9 +41,8 @@ My primary interest is **full-stack web development**, with hands-on experience 
 * JWT Authentication
 * Cloudinary
 * Stripe
-* Postman
-* Render
 * Vercel
+* Render
 
 ---
 
@@ -51,12 +50,22 @@ My primary interest is **full-stack web development**, with hands-on experience 
 
 * Advanced Full-Stack Development
 * Next.js
-* Scalable Backend Architecture
-* API Integration and System Design
-* Cloud Deployment
-* Software Development Best Practices
+* Backend Architecture
+* API Design
+* Cloud & Deployment
+* Software Engineering Practices
 
 ---
 
+## 🎯 Areas of Interest
 
-⭐ Feel free to explore my repositories and follow my journey!
+* Full-Stack Web Development
+* Software Engineering
+* Backend Development
+* Web Architecture
+* UI/UX
+* Cloud Technologies
+* Artificial Intelligence
+
+
+
