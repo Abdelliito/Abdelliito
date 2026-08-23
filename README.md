@@ -17,6 +17,8 @@ I enjoy working across the full stack, from designing responsive interfaces to d
 | **Hate Speech Detection** | An ML model for detecting hate speech in text |
 | **Horror Game** | A first-person horror game built in Unity |
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
