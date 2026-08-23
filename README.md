@@ -8,6 +8,15 @@ I enjoy working across the full stack, from designing responsive interfaces to d
 
 ---
 
+### Featured projects
+ 
+| Project | Description |
+|---|---|
+| **TheXI** | A World Cup football tracker |
+| **Vendora** | A multi-vendor e-commerce platform |
+| **Hate Speech Detection** | An ML model for detecting hate speech in text |
+| **Horror Game** | A first-person horror game built in Unity |
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -49,7 +58,6 @@ I enjoy working across the full stack, from designing responsive interfaces to d
 ## 📚 Currently Learning
 
 * Advanced Full-Stack Development
-* Next.js
 * Backend Architecture
 * API Design
 * Cloud & Deployment
