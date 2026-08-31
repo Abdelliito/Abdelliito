@@ -12,6 +12,7 @@ I enjoy working across the full stack, from designing responsive interfaces to d
  
 | Project | Description |
 |---|---|
+| **TutorSpot** | A Tutor finding platform  |
 | **TheXI** | A World Cup football tracker |
 | **Vendora** | A multi-vendor e-commerce platform |
 | **Hate Speech Detection** | An ML model for detecting hate speech in text |
@@ -43,6 +44,8 @@ I enjoy working across the full stack, from designing responsive interfaces to d
 
 * MongoDB
 * MongoDB Atlas
+* Supabase
+* PostgreSQL
 * SQL
 
 ### Tools & Technologies
@@ -50,8 +53,6 @@ I enjoy working across the full stack, from designing responsive interfaces to d
 * Git & GitHub
 * REST APIs
 * JWT Authentication
-* Cloudinary
-* Stripe
 * Vercel
 * Render
 
